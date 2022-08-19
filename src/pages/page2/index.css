@@ -1,0 +1,19 @@
+body {
+    background-color: goldenrod;
+}
+
+.img-box {
+    width: 100%;
+    height: auto;
+}
+
+.img-box img {
+    width: 100%;
+}
+
+.sun {
+    width: 400px;
+    height: 400px;
+    background: url('../../static/img/test_image.jpg') no-repeat center;
+    background-size: 100%;
+}
